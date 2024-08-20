@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - feature article1.md
-      - Example Title.md
+      - feature article2.md
