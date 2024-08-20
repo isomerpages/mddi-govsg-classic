@@ -2,4 +2,5 @@ collections:
   features:
     output: true
     order:
+      - feature article1.md
       - Example Title.md
